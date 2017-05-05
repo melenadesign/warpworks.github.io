@@ -1,0 +1,30 @@
+theme: jekyll-theme-cayman
+
+twitter_username:     WarpWorks
+github_username:      WarpWorks
+#linkedin_username:    1418841 #company id, e.g. 1418841 in https://www.linkedin.com/company-beta/1418841/
+#facebook_username:    GitHub
+#google_plus_username: 
+#dribbble_username:
+
+
+
+baseurl: "" 
+
+repository: https://github.com/WarpWorks/warpworks.github.io/
+title: WarpWorks
+description: Welcome to the WarpWorks project! <br>The goal of WarpWorks is to provide a data-driven toolchain for very rapid application development.
+description_footer: The goal of WarpWorks is to provide a data-driven toolchain for very rapid application development.
+#author:
+#email:
+project:
+    name: WarpWorks
+    tagline: The goal of WarpWorks is to provide a data-driven toolchain for very rapid application development.
+
+#show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: UA-98649497-1
+
+
+#update to kramdown
+highlighter: rouge
+markdown: kramdown
